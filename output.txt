@@ -1,0 +1,1560 @@
+Number of dimensions = 1
+- Tolerance = 0.0
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.245 seconds.
+  - KD-Tree build time: 0.100 seconds.
+  - KD-Tree query time: 0.145 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.256 seconds.
+  - KD-Tree build time: 0.105 seconds.
+  - KD-Tree query time: 0.151 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.256 seconds.
+  - KD-Tree build time: 0.110 seconds.
+  - KD-Tree query time: 0.146 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.259 seconds.
+  - KD-Tree build time: 0.107 seconds.
+  - KD-Tree query time: 0.152 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.256 seconds.
+  - KD-Tree build time: 0.111 seconds.
+  - KD-Tree query time: 0.145 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.261 seconds.
+  - KD-Tree build time: 0.107 seconds.
+  - KD-Tree query time: 0.154 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.249 seconds.
+  - KD-Tree build time: 0.099 seconds.
+  - KD-Tree query time: 0.150 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.259 seconds.
+  - KD-Tree build time: 0.109 seconds.
+  - KD-Tree query time: 0.150 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.272 seconds.
+  - KD-Tree build time: 0.121 seconds.
+  - KD-Tree query time: 0.151 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.75
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.255 seconds.
+  - KD-Tree build time: 0.109 seconds.
+  - KD-Tree query time: 0.146 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.8
+  Brute force execution time: 108.559 seconds.
+  KD-Tree execution time: 0.257 seconds.
+  - KD-Tree build time: 0.104 seconds.
+  - KD-Tree query time: 0.153 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+Number of dimensions = 2
+- Tolerance = 0.0
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.571 seconds.
+  - KD-Tree build time: 0.143 seconds.
+  - KD-Tree query time: 0.428 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.585 seconds.
+  - KD-Tree build time: 0.140 seconds.
+  - KD-Tree query time: 0.445 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.570 seconds.
+  - KD-Tree build time: 0.143 seconds.
+  - KD-Tree query time: 0.427 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.584 seconds.
+  - KD-Tree build time: 0.140 seconds.
+  - KD-Tree query time: 0.444 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.589 seconds.
+  - KD-Tree build time: 0.144 seconds.
+  - KD-Tree query time: 0.445 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.600 seconds.
+  - KD-Tree build time: 0.153 seconds.
+  - KD-Tree query time: 0.447 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.591 seconds.
+  - KD-Tree build time: 0.152 seconds.
+  - KD-Tree query time: 0.439 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.560 seconds.
+  - KD-Tree build time: 0.140 seconds.
+  - KD-Tree query time: 0.420 seconds.
+  Correctness of KD-Tree: 9832/10000
+  Average relative error: 0.016800
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.574 seconds.
+  - KD-Tree build time: 0.140 seconds.
+  - KD-Tree query time: 0.434 seconds.
+  Correctness of KD-Tree: 9832/10000
+  Average relative error: 0.016800
+- Tolerance = 0.75
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.564 seconds.
+  - KD-Tree build time: 0.144 seconds.
+  - KD-Tree query time: 0.420 seconds.
+  Correctness of KD-Tree: 9810/10000
+  Average relative error: 0.021600
+- Tolerance = 0.8
+  Brute force execution time: 147.714 seconds.
+  KD-Tree execution time: 0.572 seconds.
+  - KD-Tree build time: 0.145 seconds.
+  - KD-Tree query time: 0.427 seconds.
+  Correctness of KD-Tree: 9809/10000
+  Average relative error: 0.022000
+Number of dimensions = 3
+- Tolerance = 0.0
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 1.300 seconds.
+  - KD-Tree build time: 0.164 seconds.
+  - KD-Tree query time: 1.136 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 1.268 seconds.
+  - KD-Tree build time: 0.159 seconds.
+  - KD-Tree query time: 1.109 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 1.269 seconds.
+  - KD-Tree build time: 0.166 seconds.
+  - KD-Tree query time: 1.103 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 1.277 seconds.
+  - KD-Tree build time: 0.160 seconds.
+  - KD-Tree query time: 1.117 seconds.
+  Correctness of KD-Tree: 9998/10000
+  Average relative error: 0.000022
+- Tolerance = 0.2
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 1.270 seconds.
+  - KD-Tree build time: 0.194 seconds.
+  - KD-Tree query time: 1.076 seconds.
+  Correctness of KD-Tree: 9972/10000
+  Average relative error: 0.000327
+- Tolerance = 0.25
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 1.190 seconds.
+  - KD-Tree build time: 0.173 seconds.
+  - KD-Tree query time: 1.017 seconds.
+  Correctness of KD-Tree: 9965/10000
+  Average relative error: 0.000420
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 1.132 seconds.
+  - KD-Tree build time: 0.166 seconds.
+  - KD-Tree query time: 0.966 seconds.
+  Correctness of KD-Tree: 9928/10000
+  Average relative error: 0.001367
+- Tolerance = 0.5
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 1.016 seconds.
+  - KD-Tree build time: 0.161 seconds.
+  - KD-Tree query time: 0.855 seconds.
+  Correctness of KD-Tree: 9815/10000
+  Average relative error: 0.005846
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 0.909 seconds.
+  - KD-Tree build time: 0.158 seconds.
+  - KD-Tree query time: 0.751 seconds.
+  Correctness of KD-Tree: 9539/10000
+  Average relative error: 0.019680
+- Tolerance = 0.75
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 0.880 seconds.
+  - KD-Tree build time: 0.166 seconds.
+  - KD-Tree query time: 0.714 seconds.
+  Correctness of KD-Tree: 9351/10000
+  Average relative error: 0.031421
+- Tolerance = 0.8
+  Brute force execution time: 188.098 seconds.
+  KD-Tree execution time: 0.868 seconds.
+  - KD-Tree build time: 0.160 seconds.
+  - KD-Tree query time: 0.708 seconds.
+  Correctness of KD-Tree: 9096/10000
+  Average relative error: 0.052961
+Number of dimensions = 4
+- Tolerance = 0.0
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 2.572 seconds.
+  - KD-Tree build time: 0.185 seconds.
+  - KD-Tree query time: 2.387 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 2.626 seconds.
+  - KD-Tree build time: 0.174 seconds.
+  - KD-Tree query time: 2.452 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 2.485 seconds.
+  - KD-Tree build time: 0.182 seconds.
+  - KD-Tree query time: 2.303 seconds.
+  Correctness of KD-Tree: 9999/10000
+  Average relative error: 0.000001
+- Tolerance = 0.1
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 2.427 seconds.
+  - KD-Tree build time: 0.176 seconds.
+  - KD-Tree query time: 2.251 seconds.
+  Correctness of KD-Tree: 9996/10000
+  Average relative error: 0.000008
+- Tolerance = 0.2
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 2.225 seconds.
+  - KD-Tree build time: 0.208 seconds.
+  - KD-Tree query time: 2.017 seconds.
+  Correctness of KD-Tree: 9987/10000
+  Average relative error: 0.000062
+- Tolerance = 0.25
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 2.142 seconds.
+  - KD-Tree build time: 0.177 seconds.
+  - KD-Tree query time: 1.965 seconds.
+  Correctness of KD-Tree: 9982/10000
+  Average relative error: 0.000143
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 2.044 seconds.
+  - KD-Tree build time: 0.210 seconds.
+  - KD-Tree query time: 1.834 seconds.
+  Correctness of KD-Tree: 9964/10000
+  Average relative error: 0.000292
+- Tolerance = 0.5
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 1.692 seconds.
+  - KD-Tree build time: 0.179 seconds.
+  - KD-Tree query time: 1.513 seconds.
+  Correctness of KD-Tree: 9870/10000
+  Average relative error: 0.001907
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 1.457 seconds.
+  - KD-Tree build time: 0.185 seconds.
+  - KD-Tree query time: 1.272 seconds.
+  Correctness of KD-Tree: 9580/10000
+  Average relative error: 0.010318
+- Tolerance = 0.75
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 1.296 seconds.
+  - KD-Tree build time: 0.180 seconds.
+  - KD-Tree query time: 1.116 seconds.
+  Correctness of KD-Tree: 9259/10000
+  Average relative error: 0.023266
+- Tolerance = 0.8
+  Brute force execution time: 225.853 seconds.
+  KD-Tree execution time: 1.237 seconds.
+  - KD-Tree build time: 0.199 seconds.
+  - KD-Tree query time: 1.038 seconds.
+  Correctness of KD-Tree: 8981/10000
+  Average relative error: 0.035744
+Number of dimensions = 5
+- Tolerance = 0.0
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 5.581 seconds.
+  - KD-Tree build time: 0.203 seconds.
+  - KD-Tree query time: 5.378 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 5.225 seconds.
+  - KD-Tree build time: 0.195 seconds.
+  - KD-Tree query time: 5.030 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 5.008 seconds.
+  - KD-Tree build time: 0.184 seconds.
+  - KD-Tree query time: 4.824 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 4.805 seconds.
+  - KD-Tree build time: 0.197 seconds.
+  - KD-Tree query time: 4.608 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 4.272 seconds.
+  - KD-Tree build time: 0.195 seconds.
+  - KD-Tree query time: 4.077 seconds.
+  Correctness of KD-Tree: 9999/10000
+  Average relative error: 0.000001
+- Tolerance = 0.25
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 4.021 seconds.
+  - KD-Tree build time: 0.198 seconds.
+  - KD-Tree query time: 3.823 seconds.
+  Correctness of KD-Tree: 9995/10000
+  Average relative error: 0.000045
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 3.769 seconds.
+  - KD-Tree build time: 0.197 seconds.
+  - KD-Tree query time: 3.572 seconds.
+  Correctness of KD-Tree: 9974/10000
+  Average relative error: 0.000204
+- Tolerance = 0.5
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 3.086 seconds.
+  - KD-Tree build time: 0.199 seconds.
+  - KD-Tree query time: 2.887 seconds.
+  Correctness of KD-Tree: 9877/10000
+  Average relative error: 0.001691
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 2.410 seconds.
+  - KD-Tree build time: 0.194 seconds.
+  - KD-Tree query time: 2.216 seconds.
+  Correctness of KD-Tree: 9574/10000
+  Average relative error: 0.009096
+- Tolerance = 0.75
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 2.000 seconds.
+  - KD-Tree build time: 0.199 seconds.
+  - KD-Tree query time: 1.801 seconds.
+  Correctness of KD-Tree: 9238/10000
+  Average relative error: 0.019746
+- Tolerance = 0.8
+  Brute force execution time: 262.000 seconds.
+  KD-Tree execution time: 1.759 seconds.
+  - KD-Tree build time: 0.194 seconds.
+  - KD-Tree query time: 1.565 seconds.
+  Correctness of KD-Tree: 8924/10000
+  Average relative error: 0.031582
+Number of dimensions = 6
+- Tolerance = 0.0
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 11.337 seconds.
+  - KD-Tree build time: 0.222 seconds.
+  - KD-Tree query time: 11.115 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 11.287 seconds.
+  - KD-Tree build time: 0.212 seconds.
+  - KD-Tree query time: 11.075 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 10.990 seconds.
+  - KD-Tree build time: 0.200 seconds.
+  - KD-Tree query time: 10.790 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 10.024 seconds.
+  - KD-Tree build time: 0.211 seconds.
+  - KD-Tree query time: 9.813 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 8.639 seconds.
+  - KD-Tree build time: 0.210 seconds.
+  - KD-Tree query time: 8.429 seconds.
+  Correctness of KD-Tree: 9999/10000
+  Average relative error: 0.000001
+- Tolerance = 0.25
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 7.908 seconds.
+  - KD-Tree build time: 0.214 seconds.
+  - KD-Tree query time: 7.694 seconds.
+  Correctness of KD-Tree: 9999/10000
+  Average relative error: 0.000001
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 7.025 seconds.
+  - KD-Tree build time: 0.213 seconds.
+  - KD-Tree query time: 6.812 seconds.
+  Correctness of KD-Tree: 9990/10000
+  Average relative error: 0.000107
+- Tolerance = 0.5
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 5.161 seconds.
+  - KD-Tree build time: 0.223 seconds.
+  - KD-Tree query time: 4.938 seconds.
+  Correctness of KD-Tree: 9920/10000
+  Average relative error: 0.001011
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 3.619 seconds.
+  - KD-Tree build time: 0.214 seconds.
+  - KD-Tree query time: 3.405 seconds.
+  Correctness of KD-Tree: 9681/10000
+  Average relative error: 0.005385
+- Tolerance = 0.75
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 2.984 seconds.
+  - KD-Tree build time: 0.216 seconds.
+  - KD-Tree query time: 2.768 seconds.
+  Correctness of KD-Tree: 9379/10000
+  Average relative error: 0.014398
+- Tolerance = 0.8
+  Brute force execution time: 298.499 seconds.
+  KD-Tree execution time: 2.531 seconds.
+  - KD-Tree build time: 0.211 seconds.
+  - KD-Tree query time: 2.320 seconds.
+  Correctness of KD-Tree: 9084/10000
+  Average relative error: 0.024896
+Number of dimensions = 7
+- Tolerance = 0.0
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 23.668 seconds.
+  - KD-Tree build time: 0.234 seconds.
+  - KD-Tree query time: 23.434 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 23.171 seconds.
+  - KD-Tree build time: 0.228 seconds.
+  - KD-Tree query time: 22.943 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 21.868 seconds.
+  - KD-Tree build time: 0.216 seconds.
+  - KD-Tree query time: 21.652 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 20.928 seconds.
+  - KD-Tree build time: 0.236 seconds.
+  - KD-Tree query time: 20.692 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 17.619 seconds.
+  - KD-Tree build time: 0.234 seconds.
+  - KD-Tree query time: 17.385 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 15.942 seconds.
+  - KD-Tree build time: 0.253 seconds.
+  - KD-Tree query time: 15.689 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 13.695 seconds.
+  - KD-Tree build time: 0.245 seconds.
+  - KD-Tree query time: 13.450 seconds.
+  Correctness of KD-Tree: 9998/10000
+  Average relative error: 0.000022
+- Tolerance = 0.5
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 9.736 seconds.
+  - KD-Tree build time: 0.242 seconds.
+  - KD-Tree query time: 9.494 seconds.
+  Correctness of KD-Tree: 9946/10000
+  Average relative error: 0.000561
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 6.096 seconds.
+  - KD-Tree build time: 0.239 seconds.
+  - KD-Tree query time: 5.857 seconds.
+  Correctness of KD-Tree: 9699/10000
+  Average relative error: 0.004838
+- Tolerance = 0.75
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 4.692 seconds.
+  - KD-Tree build time: 0.233 seconds.
+  - KD-Tree query time: 4.459 seconds.
+  Correctness of KD-Tree: 9334/10000
+  Average relative error: 0.012722
+- Tolerance = 0.8
+  Brute force execution time: 336.948 seconds.
+  KD-Tree execution time: 3.895 seconds.
+  - KD-Tree build time: 0.227 seconds.
+  - KD-Tree query time: 3.668 seconds.
+  Correctness of KD-Tree: 8994/10000
+  Average relative error: 0.022073
+Number of dimensions = 8
+- Tolerance = 0.0
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 44.356 seconds.
+  - KD-Tree build time: 0.322 seconds.
+  - KD-Tree query time: 44.034 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 43.450 seconds.
+  - KD-Tree build time: 0.243 seconds.
+  - KD-Tree query time: 43.207 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 40.692 seconds.
+  - KD-Tree build time: 0.228 seconds.
+  - KD-Tree query time: 40.464 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 37.260 seconds.
+  - KD-Tree build time: 0.246 seconds.
+  - KD-Tree query time: 37.014 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 30.853 seconds.
+  - KD-Tree build time: 0.243 seconds.
+  - KD-Tree query time: 30.610 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 29.103 seconds.
+  - KD-Tree build time: 0.295 seconds.
+  - KD-Tree query time: 28.808 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 24.378 seconds.
+  - KD-Tree build time: 0.247 seconds.
+  - KD-Tree query time: 24.131 seconds.
+  Correctness of KD-Tree: 9998/10000
+  Average relative error: 0.000018
+- Tolerance = 0.5
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 16.578 seconds.
+  - KD-Tree build time: 0.250 seconds.
+  - KD-Tree query time: 16.328 seconds.
+  Correctness of KD-Tree: 9957/10000
+  Average relative error: 0.000557
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 9.952 seconds.
+  - KD-Tree build time: 0.261 seconds.
+  - KD-Tree query time: 9.691 seconds.
+  Correctness of KD-Tree: 9712/10000
+  Average relative error: 0.004408
+- Tolerance = 0.75
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 7.089 seconds.
+  - KD-Tree build time: 0.273 seconds.
+  - KD-Tree query time: 6.816 seconds.
+  Correctness of KD-Tree: 9395/10000
+  Average relative error: 0.010999
+- Tolerance = 0.8
+  Brute force execution time: 374.424 seconds.
+  KD-Tree execution time: 5.740 seconds.
+  - KD-Tree build time: 0.242 seconds.
+  - KD-Tree query time: 5.498 seconds.
+  Correctness of KD-Tree: 9046/10000
+  Average relative error: 0.019099
+Number of dimensions = 9
+- Tolerance = 0.0
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 90.795 seconds.
+  - KD-Tree build time: 0.270 seconds.
+  - KD-Tree query time: 90.525 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 89.970 seconds.
+  - KD-Tree build time: 0.262 seconds.
+  - KD-Tree query time: 89.708 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 83.234 seconds.
+  - KD-Tree build time: 0.252 seconds.
+  - KD-Tree query time: 82.982 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 73.928 seconds.
+  - KD-Tree build time: 0.275 seconds.
+  - KD-Tree query time: 73.653 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 59.861 seconds.
+  - KD-Tree build time: 0.258 seconds.
+  - KD-Tree query time: 59.603 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 52.858 seconds.
+  - KD-Tree build time: 0.267 seconds.
+  - KD-Tree query time: 52.591 seconds.
+  Correctness of KD-Tree: 9999/10000
+  Average relative error: 0.000001
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 43.055 seconds.
+  - KD-Tree build time: 0.265 seconds.
+  - KD-Tree query time: 42.790 seconds.
+  Correctness of KD-Tree: 9996/10000
+  Average relative error: 0.000027
+- Tolerance = 0.5
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 26.982 seconds.
+  - KD-Tree build time: 0.356 seconds.
+  - KD-Tree query time: 26.626 seconds.
+  Correctness of KD-Tree: 9958/10000
+  Average relative error: 0.000422
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 15.049 seconds.
+  - KD-Tree build time: 0.296 seconds.
+  - KD-Tree query time: 14.753 seconds.
+  Correctness of KD-Tree: 9734/10000
+  Average relative error: 0.003463
+- Tolerance = 0.75
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 10.529 seconds.
+  - KD-Tree build time: 0.272 seconds.
+  - KD-Tree query time: 10.257 seconds.
+  Correctness of KD-Tree: 9419/10000
+  Average relative error: 0.008962
+- Tolerance = 0.8
+  Brute force execution time: 409.344 seconds.
+  KD-Tree execution time: 8.583 seconds.
+  - KD-Tree build time: 0.260 seconds.
+  - KD-Tree query time: 8.323 seconds.
+  Correctness of KD-Tree: 9042/10000
+  Average relative error: 0.017159
+Number of dimensions = 10
+- Tolerance = 0.0
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 195.159 seconds.
+  - KD-Tree build time: 0.285 seconds.
+  - KD-Tree query time: 194.874 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 190.280 seconds.
+  - KD-Tree build time: 0.309 seconds.
+  - KD-Tree query time: 189.971 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 174.431 seconds.
+  - KD-Tree build time: 0.285 seconds.
+  - KD-Tree query time: 174.146 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 153.668 seconds.
+  - KD-Tree build time: 0.284 seconds.
+  - KD-Tree query time: 153.384 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 116.487 seconds.
+  - KD-Tree build time: 0.278 seconds.
+  - KD-Tree query time: 116.209 seconds.
+  Correctness of KD-Tree: 9999/10000
+  Average relative error: 0.000006
+- Tolerance = 0.25
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 100.963 seconds.
+  - KD-Tree build time: 0.279 seconds.
+  - KD-Tree query time: 100.684 seconds.
+  Correctness of KD-Tree: 9998/10000
+  Average relative error: 0.000011
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 77.655 seconds.
+  - KD-Tree build time: 0.291 seconds.
+  - KD-Tree query time: 77.364 seconds.
+  Correctness of KD-Tree: 9998/10000
+  Average relative error: 0.000011
+- Tolerance = 0.5
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 44.325 seconds.
+  - KD-Tree build time: 0.279 seconds.
+  - KD-Tree query time: 44.046 seconds.
+  Correctness of KD-Tree: 9976/10000
+  Average relative error: 0.000196
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 23.087 seconds.
+  - KD-Tree build time: 0.283 seconds.
+  - KD-Tree query time: 22.804 seconds.
+  Correctness of KD-Tree: 9798/10000
+  Average relative error: 0.002652
+- Tolerance = 0.75
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 15.535 seconds.
+  - KD-Tree build time: 0.292 seconds.
+  - KD-Tree query time: 15.243 seconds.
+  Correctness of KD-Tree: 9497/10000
+  Average relative error: 0.007170
+- Tolerance = 0.8
+  Brute force execution time: 447.567 seconds.
+  KD-Tree execution time: 11.481 seconds.
+  - KD-Tree build time: 0.288 seconds.
+  - KD-Tree query time: 11.193 seconds.
+  Correctness of KD-Tree: 9185/10000
+  Average relative error: 0.012811
+Number of dimensions = 11
+- Tolerance = 0.0
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 370.443 seconds.
+  - KD-Tree build time: 0.313 seconds.
+  - KD-Tree query time: 370.130 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 362.993 seconds.
+  - KD-Tree build time: 0.319 seconds.
+  - KD-Tree query time: 362.674 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 336.903 seconds.
+  - KD-Tree build time: 0.297 seconds.
+  - KD-Tree query time: 336.606 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 301.517 seconds.
+  - KD-Tree build time: 0.323 seconds.
+  - KD-Tree query time: 301.194 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 233.785 seconds.
+  - KD-Tree build time: 0.291 seconds.
+  - KD-Tree query time: 233.494 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 199.307 seconds.
+  - KD-Tree build time: 0.304 seconds.
+  - KD-Tree query time: 199.003 seconds.
+  Correctness of KD-Tree: 9999/10000
+  Average relative error: 0.000002
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 148.281 seconds.
+  - KD-Tree build time: 0.297 seconds.
+  - KD-Tree query time: 147.984 seconds.
+  Correctness of KD-Tree: 9998/10000
+  Average relative error: 0.000006
+- Tolerance = 0.5
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 76.322 seconds.
+  - KD-Tree build time: 0.299 seconds.
+  - KD-Tree query time: 76.023 seconds.
+  Correctness of KD-Tree: 9981/10000
+  Average relative error: 0.000097
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 34.477 seconds.
+  - KD-Tree build time: 0.304 seconds.
+  - KD-Tree query time: 34.173 seconds.
+  Correctness of KD-Tree: 9849/10000
+  Average relative error: 0.001763
+- Tolerance = 0.75
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 22.315 seconds.
+  - KD-Tree build time: 0.299 seconds.
+  - KD-Tree query time: 22.016 seconds.
+  Correctness of KD-Tree: 9606/10000
+  Average relative error: 0.004999
+- Tolerance = 0.8
+  Brute force execution time: 486.559 seconds.
+  KD-Tree execution time: 15.900 seconds.
+  - KD-Tree build time: 0.294 seconds.
+  - KD-Tree query time: 15.606 seconds.
+  Correctness of KD-Tree: 9304/10000
+  Average relative error: 0.010489
+Number of dimensions = 12
+- Tolerance = 0.0
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 539.355 seconds.
+  - KD-Tree build time: 0.317 seconds.
+  - KD-Tree query time: 539.038 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 533.128 seconds.
+  - KD-Tree build time: 0.313 seconds.
+  - KD-Tree query time: 532.815 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 500.743 seconds.
+  - KD-Tree build time: 0.308 seconds.
+  - KD-Tree query time: 500.435 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 468.469 seconds.
+  - KD-Tree build time: 0.303 seconds.
+  - KD-Tree query time: 468.166 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 392.292 seconds.
+  - KD-Tree build time: 0.329 seconds.
+  - KD-Tree query time: 391.963 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 349.746 seconds.
+  - KD-Tree build time: 0.304 seconds.
+  - KD-Tree query time: 349.442 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 272.843 seconds.
+  - KD-Tree build time: 0.322 seconds.
+  - KD-Tree query time: 272.521 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 135.187 seconds.
+  - KD-Tree build time: 0.308 seconds.
+  - KD-Tree query time: 134.879 seconds.
+  Correctness of KD-Tree: 9984/10000
+  Average relative error: 0.000077
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 55.068 seconds.
+  - KD-Tree build time: 0.329 seconds.
+  - KD-Tree query time: 54.739 seconds.
+  Correctness of KD-Tree: 9848/10000
+  Average relative error: 0.001394
+- Tolerance = 0.75
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 32.366 seconds.
+  - KD-Tree build time: 0.332 seconds.
+  - KD-Tree query time: 32.034 seconds.
+  Correctness of KD-Tree: 9564/10000
+  Average relative error: 0.005380
+- Tolerance = 0.8
+  Brute force execution time: 524.387 seconds.
+  KD-Tree execution time: 23.107 seconds.
+  - KD-Tree build time: 0.304 seconds.
+  - KD-Tree query time: 22.803 seconds.
+  Correctness of KD-Tree: 9249/10000
+  Average relative error: 0.010509
+Number of dimensions = 13
+- Tolerance = 0.0
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 661.508 seconds.
+  - KD-Tree build time: 0.325 seconds.
+  - KD-Tree query time: 661.183 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 657.664 seconds.
+  - KD-Tree build time: 0.321 seconds.
+  - KD-Tree query time: 657.343 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 640.409 seconds.
+  - KD-Tree build time: 0.305 seconds.
+  - KD-Tree query time: 640.104 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 618.373 seconds.
+  - KD-Tree build time: 0.318 seconds.
+  - KD-Tree query time: 618.055 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 556.682 seconds.
+  - KD-Tree build time: 0.324 seconds.
+  - KD-Tree query time: 556.358 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 517.465 seconds.
+  - KD-Tree build time: 0.320 seconds.
+  - KD-Tree query time: 517.145 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 435.441 seconds.
+  - KD-Tree build time: 0.317 seconds.
+  - KD-Tree query time: 435.124 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 233.230 seconds.
+  - KD-Tree build time: 0.369 seconds.
+  - KD-Tree query time: 232.861 seconds.
+  Correctness of KD-Tree: 9990/10000
+  Average relative error: 0.000068
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 87.245 seconds.
+  - KD-Tree build time: 0.334 seconds.
+  - KD-Tree query time: 86.911 seconds.
+  Correctness of KD-Tree: 9856/10000
+  Average relative error: 0.001259
+- Tolerance = 0.75
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 48.481 seconds.
+  - KD-Tree build time: 0.324 seconds.
+  - KD-Tree query time: 48.157 seconds.
+  Correctness of KD-Tree: 9611/10000
+  Average relative error: 0.004279
+- Tolerance = 0.8
+  Brute force execution time: 553.024 seconds.
+  KD-Tree execution time: 32.380 seconds.
+  - KD-Tree build time: 0.321 seconds.
+  - KD-Tree query time: 32.059 seconds.
+  Correctness of KD-Tree: 9302/10000
+  Average relative error: 0.008904
+Number of dimensions = 14
+- Tolerance = 0.0
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 739.459 seconds.
+  - KD-Tree build time: 0.344 seconds.
+  - KD-Tree query time: 739.115 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 735.984 seconds.
+  - KD-Tree build time: 0.333 seconds.
+  - KD-Tree query time: 735.651 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 724.113 seconds.
+  - KD-Tree build time: 0.326 seconds.
+  - KD-Tree query time: 723.787 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 710.424 seconds.
+  - KD-Tree build time: 0.333 seconds.
+  - KD-Tree query time: 710.091 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 671.208 seconds.
+  - KD-Tree build time: 0.334 seconds.
+  - KD-Tree query time: 670.874 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 644.712 seconds.
+  - KD-Tree build time: 0.333 seconds.
+  - KD-Tree query time: 644.379 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 581.162 seconds.
+  - KD-Tree build time: 0.331 seconds.
+  - KD-Tree query time: 580.831 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 369.543 seconds.
+  - KD-Tree build time: 0.339 seconds.
+  - KD-Tree query time: 369.204 seconds.
+  Correctness of KD-Tree: 9997/10000
+  Average relative error: 0.000016
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 141.081 seconds.
+  - KD-Tree build time: 0.330 seconds.
+  - KD-Tree query time: 140.751 seconds.
+  Correctness of KD-Tree: 9890/10000
+  Average relative error: 0.000865
+- Tolerance = 0.75
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 74.591 seconds.
+  - KD-Tree build time: 0.415 seconds.
+  - KD-Tree query time: 74.176 seconds.
+  Correctness of KD-Tree: 9609/10000
+  Average relative error: 0.004254
+- Tolerance = 0.8
+  Brute force execution time: 588.411 seconds.
+  KD-Tree execution time: 48.020 seconds.
+  - KD-Tree build time: 0.332 seconds.
+  - KD-Tree query time: 47.688 seconds.
+  Correctness of KD-Tree: 9283/10000
+  Average relative error: 0.008716
+Number of dimensions = 15
+- Tolerance = 0.0
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 807.728 seconds.
+  - KD-Tree build time: 0.363 seconds.
+  - KD-Tree query time: 807.365 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 801.243 seconds.
+  - KD-Tree build time: 0.373 seconds.
+  - KD-Tree query time: 800.870 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 795.303 seconds.
+  - KD-Tree build time: 0.335 seconds.
+  - KD-Tree query time: 794.968 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 787.399 seconds.
+  - KD-Tree build time: 0.347 seconds.
+  - KD-Tree query time: 787.052 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 763.776 seconds.
+  - KD-Tree build time: 0.354 seconds.
+  - KD-Tree query time: 763.422 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 746.934 seconds.
+  - KD-Tree build time: 0.348 seconds.
+  - KD-Tree query time: 746.586 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 704.338 seconds.
+  - KD-Tree build time: 0.346 seconds.
+  - KD-Tree query time: 703.992 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 526.461 seconds.
+  - KD-Tree build time: 0.350 seconds.
+  - KD-Tree query time: 526.111 seconds.
+  Correctness of KD-Tree: 9998/10000
+  Average relative error: 0.000013
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 220.234 seconds.
+  - KD-Tree build time: 0.343 seconds.
+  - KD-Tree query time: 219.891 seconds.
+  Correctness of KD-Tree: 9899/10000
+  Average relative error: 0.000913
+- Tolerance = 0.75
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 111.056 seconds.
+  - KD-Tree build time: 0.367 seconds.
+  - KD-Tree query time: 110.689 seconds.
+  Correctness of KD-Tree: 9639/10000
+  Average relative error: 0.003763
+- Tolerance = 0.8
+  Brute force execution time: 623.077 seconds.
+  KD-Tree execution time: 70.016 seconds.
+  - KD-Tree build time: 0.346 seconds.
+  - KD-Tree query time: 69.670 seconds.
+  Correctness of KD-Tree: 9308/10000
+  Average relative error: 0.008027
+Number of dimensions = 16
+- Tolerance = 0.0
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 857.437 seconds.
+  - KD-Tree build time: 0.368 seconds.
+  - KD-Tree query time: 857.069 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 856.961 seconds.
+  - KD-Tree build time: 0.361 seconds.
+  - KD-Tree query time: 856.600 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 853.629 seconds.
+  - KD-Tree build time: 0.348 seconds.
+  - KD-Tree query time: 853.281 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 849.631 seconds.
+  - KD-Tree build time: 0.369 seconds.
+  - KD-Tree query time: 849.262 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 839.395 seconds.
+  - KD-Tree build time: 0.362 seconds.
+  - KD-Tree query time: 839.033 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 830.298 seconds.
+  - KD-Tree build time: 0.372 seconds.
+  - KD-Tree query time: 829.926 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 800.627 seconds.
+  - KD-Tree build time: 0.364 seconds.
+  - KD-Tree query time: 800.263 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 670.676 seconds.
+  - KD-Tree build time: 0.361 seconds.
+  - KD-Tree query time: 670.315 seconds.
+  Correctness of KD-Tree: 9999/10000
+  Average relative error: 0.000007
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 330.652 seconds.
+  - KD-Tree build time: 0.360 seconds.
+  - KD-Tree query time: 330.292 seconds.
+  Correctness of KD-Tree: 9935/10000
+  Average relative error: 0.000534
+- Tolerance = 0.75
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 163.972 seconds.
+  - KD-Tree build time: 0.366 seconds.
+  - KD-Tree query time: 163.606 seconds.
+  Correctness of KD-Tree: 9650/10000
+  Average relative error: 0.003729
+- Tolerance = 0.8
+  Brute force execution time: 659.419 seconds.
+  KD-Tree execution time: 99.689 seconds.
+  - KD-Tree build time: 0.429 seconds.
+  - KD-Tree query time: 99.260 seconds.
+  Correctness of KD-Tree: 9305/10000
+  Average relative error: 0.008328
+Number of dimensions = 17
+- Tolerance = 0.0
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 912.090 seconds.
+  - KD-Tree build time: 0.391 seconds.
+  - KD-Tree query time: 911.699 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 911.925 seconds.
+  - KD-Tree build time: 0.387 seconds.
+  - KD-Tree query time: 911.538 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 901.992 seconds.
+  - KD-Tree build time: 0.366 seconds.
+  - KD-Tree query time: 901.626 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 906.572 seconds.
+  - KD-Tree build time: 0.380 seconds.
+  - KD-Tree query time: 906.192 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 898.487 seconds.
+  - KD-Tree build time: 0.379 seconds.
+  - KD-Tree query time: 898.108 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 888.960 seconds.
+  - KD-Tree build time: 0.395 seconds.
+  - KD-Tree query time: 888.565 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 871.454 seconds.
+  - KD-Tree build time: 0.387 seconds.
+  - KD-Tree query time: 871.067 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 780.605 seconds.
+  - KD-Tree build time: 0.385 seconds.
+  - KD-Tree query time: 780.220 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 460.196 seconds.
+  - KD-Tree build time: 0.397 seconds.
+  - KD-Tree query time: 459.799 seconds.
+  Correctness of KD-Tree: 9961/10000
+  Average relative error: 0.000221
+- Tolerance = 0.75
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 235.468 seconds.
+  - KD-Tree build time: 0.386 seconds.
+  - KD-Tree query time: 235.082 seconds.
+  Correctness of KD-Tree: 9746/10000
+  Average relative error: 0.002341
+- Tolerance = 0.8
+  Brute force execution time: 699.926 seconds.
+  KD-Tree execution time: 139.149 seconds.
+  - KD-Tree build time: 0.379 seconds.
+  - KD-Tree query time: 138.770 seconds.
+  Correctness of KD-Tree: 9407/10000
+  Average relative error: 0.006327
+Number of dimensions = 18
+- Tolerance = 0.0
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 951.479 seconds.
+  - KD-Tree build time: 0.407 seconds.
+  - KD-Tree query time: 951.072 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 953.002 seconds.
+  - KD-Tree build time: 0.399 seconds.
+  - KD-Tree query time: 952.603 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 950.447 seconds.
+  - KD-Tree build time: 0.445 seconds.
+  - KD-Tree query time: 950.002 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 948.582 seconds.
+  - KD-Tree build time: 0.395 seconds.
+  - KD-Tree query time: 948.187 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 942.882 seconds.
+  - KD-Tree build time: 0.394 seconds.
+  - KD-Tree query time: 942.488 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 942.404 seconds.
+  - KD-Tree build time: 0.400 seconds.
+  - KD-Tree query time: 942.004 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 930.543 seconds.
+  - KD-Tree build time: 0.440 seconds.
+  - KD-Tree query time: 930.103 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 868.327 seconds.
+  - KD-Tree build time: 0.410 seconds.
+  - KD-Tree query time: 867.917 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 602.301 seconds.
+  - KD-Tree build time: 0.401 seconds.
+  - KD-Tree query time: 601.900 seconds.
+  Correctness of KD-Tree: 9976/10000
+  Average relative error: 0.000187
+- Tolerance = 0.75
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 330.284 seconds.
+  - KD-Tree build time: 0.401 seconds.
+  - KD-Tree query time: 329.883 seconds.
+  Correctness of KD-Tree: 9789/10000
+  Average relative error: 0.001921
+- Tolerance = 0.8
+  Brute force execution time: 732.275 seconds.
+  KD-Tree execution time: 193.898 seconds.
+  - KD-Tree build time: 0.397 seconds.
+  - KD-Tree query time: 193.501 seconds.
+  Correctness of KD-Tree: 9472/10000
+  Average relative error: 0.005203
+Number of dimensions = 19
+- Tolerance = 0.0
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 996.311 seconds.
+  - KD-Tree build time: 0.421 seconds.
+  - KD-Tree query time: 995.890 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 997.447 seconds.
+  - KD-Tree build time: 0.421 seconds.
+  - KD-Tree query time: 997.026 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 995.691 seconds.
+  - KD-Tree build time: 0.398 seconds.
+  - KD-Tree query time: 995.293 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 993.535 seconds.
+  - KD-Tree build time: 0.413 seconds.
+  - KD-Tree query time: 993.122 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 992.909 seconds.
+  - KD-Tree build time: 0.408 seconds.
+  - KD-Tree query time: 992.501 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 1046.811 seconds.
+  - KD-Tree build time: 0.482 seconds.
+  - KD-Tree query time: 1046.329 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 1024.670 seconds.
+  - KD-Tree build time: 0.440 seconds.
+  - KD-Tree query time: 1024.230 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 951.250 seconds.
+  - KD-Tree build time: 0.477 seconds.
+  - KD-Tree query time: 950.773 seconds.
+  Correctness of KD-Tree: 9999/10000
+  Average relative error: 0.000000
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 750.658 seconds.
+  - KD-Tree build time: 0.429 seconds.
+  - KD-Tree query time: 750.229 seconds.
+  Correctness of KD-Tree: 9977/10000
+  Average relative error: 0.000161
+- Tolerance = 0.75
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 458.209 seconds.
+  - KD-Tree build time: 0.422 seconds.
+  - KD-Tree query time: 457.787 seconds.
+  Correctness of KD-Tree: 9856/10000
+  Average relative error: 0.001300
+- Tolerance = 0.8
+  Brute force execution time: 770.917 seconds.
+  KD-Tree execution time: 269.946 seconds.
+  - KD-Tree build time: 0.426 seconds.
+  - KD-Tree query time: 269.520 seconds.
+  Correctness of KD-Tree: 9534/10000
+  Average relative error: 0.004487
+Number of dimensions = 20
+- Tolerance = 0.0
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 1052.980 seconds.
+  - KD-Tree build time: 0.442 seconds.
+  - KD-Tree query time: 1052.538 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.01
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 1052.064 seconds.
+  - KD-Tree build time: 0.433 seconds.
+  - KD-Tree query time: 1051.631 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.05
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 1060.330 seconds.
+  - KD-Tree build time: 0.423 seconds.
+  - KD-Tree query time: 1059.907 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.1
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 1064.411 seconds.
+  - KD-Tree build time: 0.449 seconds.
+  - KD-Tree query time: 1063.962 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.2
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 1038.889 seconds.
+  - KD-Tree build time: 0.421 seconds.
+  - KD-Tree query time: 1038.468 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.25
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 1037.558 seconds.
+  - KD-Tree build time: 0.426 seconds.
+  - KD-Tree query time: 1037.132 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.3333333333333333
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 1057.355 seconds.
+  - KD-Tree build time: 0.421 seconds.
+  - KD-Tree query time: 1056.934 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.5
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 1053.793 seconds.
+  - KD-Tree build time: 0.467 seconds.
+  - KD-Tree query time: 1053.326 seconds.
+  Correctness of KD-Tree: 10000/10000
+  Average relative error: 0.000000
+- Tolerance = 0.6666666666666666
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 914.473 seconds.
+  - KD-Tree build time: 0.437 seconds.
+  - KD-Tree query time: 914.036 seconds.
+  Correctness of KD-Tree: 9991/10000
+  Average relative error: 0.000036
+- Tolerance = 0.75
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 614.787 seconds.
+  - KD-Tree build time: 0.472 seconds.
+  - KD-Tree query time: 614.315 seconds.
+  Correctness of KD-Tree: 9920/10000
+  Average relative error: 0.000638
+- Tolerance = 0.8
+  Brute force execution time: 817.959 seconds.
+  KD-Tree execution time: 372.457 seconds.
+  - KD-Tree build time: 0.517 seconds.
+  - KD-Tree query time: 371.940 seconds.
+  Correctness of KD-Tree: 9688/10000
+  Average relative error: 0.002694
