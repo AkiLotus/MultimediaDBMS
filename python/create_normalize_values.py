@@ -1,15 +1,9 @@
+import os
 import librosa
 import numpy as np
-from wavefile import WaveFile
 import pickle
 
-def normalize(vector):
-    with open('normalize.obj', 'rb') as input:
-        min_arr = pickle.load(input)
-        max_arr = pickle.load(input)
-        vector = np.array(vector)
-    return (vector-min_arr) / (max_arr-min_arr)
-
+# tinh toan gia tri min,max cho tung feature
 def average_energy(arr):
     return np.average(arr*arr)
 
@@ -24,12 +18,23 @@ def createWaveFileFromPath(path):
     zcr = librosa.feature.zero_crossing_rate(x)
     # feature_vector = [np.mean(chroma_stft), np.mean(rms), np.mean(spec_cent), np.mean(spec_bw), np.mean(rolloff), np.mean(zcr)]
     feature_vector = [ave_energy, np.mean(rms), np.mean(spec_cent), np.mean(spec_bw), np.mean(rolloff), np.mean(zcr)]
-    
     # mfcc = librosa.feature.mfcc(x,sr)
     # for e in mfcc:
         # feature_vector.append(np.mean(e))
-    feature_vector = normalize(feature_vector)
-    
-    obj = WaveFile(feature_vector, path)
-    return obj   
-    
+    return feature_vector;
+
+path="../bird_sounds"
+file_names = os.listdir(path)
+arr = []
+for f in file_names:
+    obj = createWaveFileFromPath(path + "/" + f)
+    arr.append(obj)
+
+min_arr = np.vstack(arr).min(axis=0)
+max_arrr = np.vstack(arr).max(axis=0)
+print("Min value: ",min_arr)
+print("Max value: ",max_arrr)
+
+with open('normalize.obj', 'wb') as output:
+    pickle.dump(min_arr, output, pickle.HIGHEST_PROTOCOL)
+    pickle.dump(max_arrr, output, pickle.HIGHEST_PROTOCOL)
