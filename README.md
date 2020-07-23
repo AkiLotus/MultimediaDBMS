@@ -1,6 +1,6 @@
 # MultimediaDBMS
 
-quack quack
+Multimedia DBMS team project. Aimed to find a bird sound file in a database which is the most similar to the inputted one, using simplest audio analysis approach.
 
 ## Backend quick documentation
 
